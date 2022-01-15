@@ -1,6 +1,6 @@
 ## Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<div>
-  <p style="display: inline_block">
+<div style="display: inline_block">
+  <p>
 Hi, I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies in the infinite possibilities that stem from it and how a good idea can generate great solutions that make people's lives easier. I take great care in the user experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
