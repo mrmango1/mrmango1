@@ -1,11 +1,14 @@
 ## Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<div align="center">
-<p>
-Hi, I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<div>
+  <p>
+Hi, I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies in the infinite possibilities that stem from it and how a good idea can generate great solutions that make people's lives easier. I take great care in the user experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-</p>
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Don't code to solve problems, code to generate solutions.
+  </p>
   <img align="right" alt="GIF" src="https://github.com/mrmango1/mrmango1/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
+<div align="center">
   <a href="https://github.com/mrmango1">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mrmango1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmango1&layout=compact&langs_count=7&theme=radical"/>
