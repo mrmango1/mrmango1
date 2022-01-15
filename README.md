@@ -2,7 +2,6 @@
 I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies in the infinite possibilities that stem from it and how a good idea can generate great solutions that make people's lives easier. I take great care in the user experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img align="right" alt="GIF" src="https://github.com/mrmango1/mrmango1/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ```python
 class SoftwareDeveloper:
@@ -35,6 +34,8 @@ me = SoftwareDeveloper()
 me.say_hi()
 print(me.skills())
 ```
+### <img align="right" alt="GIF" src="https://github.com/mrmango1/mrmango1/blob/master/code.gif?raw=true" width="400" height="320" />
+
 <div align="center">
   <a href="https://github.com/mrmango1">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mrmango1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
