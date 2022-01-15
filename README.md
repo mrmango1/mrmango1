@@ -1,7 +1,7 @@
-## Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Hi, I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies in the infinite possibilities that stem from it and how a good idea can generate great solutions that make people's lives easier. I take great care in the user experience, architecture, and code quality of the things I build.
+## <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies in the infinite possibilities that stem from it and how a good idea can generate great solutions that make people's lives easier. I take great care in the user experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <img align="right" alt="GIF" src="https://github.com/mrmango1/mrmango1/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ```python
@@ -19,7 +19,7 @@ class SoftwareDeveloper:
             "frontEnd": {
                 "css": ["Bootstrap"]
             },
-            "databases": ["MariaDB", "MySql", "sqlite", "PostgreSQL"],
+            "databases": ["MariaDB", "MySql", "Sqlite", "PostgreSQL"],
             "misc": ["Linux", "Bash", "Rest"]}
         self.toThink = "Don't code to solve problems, code to generate solutions."
 
