@@ -1,10 +1,12 @@
 ## Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <div align="center">
-  <a href="https://github.com/mrmango1">
+<p>
 Hi, I'm Anderson Grefa, a passionate self-taught developer from Ecuador. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+</p>
   <img align="right" alt="GIF" src="https://github.com/mrmango1/mrmango1/blob/master/code.gif?raw=true" width="500" height="320" />
+  <a href="https://github.com/mrmango1">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mrmango1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmango1&layout=compact&langs_count=7&theme=radical"/>
 </div>
