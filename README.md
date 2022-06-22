@@ -1,4 +1,4 @@
-## <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="5px"> Hi I'm Anderson! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 I'm a passionate self-taught developer. My passion for software lies in the infinite possibilities that stem from it and how a good idea can generate great solutions that make people's lives easier. I take great care in the user experience, architecture, and code quality of the things I build.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
